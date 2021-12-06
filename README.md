@@ -120,7 +120,7 @@ We understand how important security its especially when you build payment syste
 
 We make sure in each line of code written that performance and speed factors are always taken into consideration, Laraship Also has its own caching engine to support Model Caching especially for Roles, Menus, Settings, where these objects are requested hundreds of times.
 
-Also, Theme, Config, Views, and Roue caching are supported in Laraship to get a blazing fast web application.
+Also, Theme, Config, Views, and Route caching are supported in Laraship to get a blazing fast web application.
 
 ## Conclusion:
 
